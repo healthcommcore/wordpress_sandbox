@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/hcc_avada_child"]
+	path = wp-content/themes/hcc_avada_child
+	url = https://github.com/healthcommcore/hcc_avada_child.git
