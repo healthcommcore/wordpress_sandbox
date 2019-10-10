@@ -25,6 +25,8 @@
     "wpackagist-plugin/search-replace": "^1.2",
     "wpackagist-plugin/wp-pubmed-reflist":"^1.2",
     "wpackagist-plugin/meta-box":"^5.2.1",
+    "wpackagist-plugin/tag-groups":"^1.22.0",
+    "wpackagist-plugin/what-the-file":"^1.5.4",
     "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags":"^2.2.4.2",
     "wpackagist-plugin/widget-css-classes": "^1.5.2.1",
     "wpackagist-plugin/mce-table-buttons": "^3.2",
